@@ -28,8 +28,5 @@ public class RhombusTest {
         assertEquals(20,4);
     }
 
-    @Test
-    public void isQuadrat() {
-        assertEquals(10,10);
-    }
+   
 }
