@@ -68,20 +68,5 @@ public class Rhombus {
     }
 
 
-    public boolean isQuadrat() {                                                             //5) Чи квадрат
-        boolean result;
-
-
-        if (this.getAngle() == Math.PI / 2) {
-
-            result = true;
-        } else {
-            result = false;
-        }
-        return result;
-
-
-    }
-
 
 }
